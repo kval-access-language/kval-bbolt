@@ -1,0 +1,11 @@
+language: go
+go_import_path: github.com/kval-access-language/kval-bbolt
+go:
+  - 1.7.3
+  - 1.8.x
+  - 1.9.x
+  - 1.10.x
+  - tip
+
+script:
+  - go test -v ./...
