@@ -106,6 +106,8 @@ Have a look at some of the bits and pieces implemented as part of this binding
 in the demo Go application here:
 https://github.com/kval-access-language/kval-boltdb-demo
 
+[![asciicast](https://asciinema.org/a/215878.svg)](https://asciinema.org/a/215878)
+
 ### How to contribute
 
 The following would be helpful:
