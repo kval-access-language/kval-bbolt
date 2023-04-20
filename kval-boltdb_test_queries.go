@@ -1,6 +1,6 @@
 package kvalbbolt
 
-import bolt "github.com/etcd-io/bbolt"
+import bolt "go.etcd.io/bbolt"
 
 //test invalid/non-implemented capabilities
 

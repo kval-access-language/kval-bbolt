@@ -1,7 +1,7 @@
 package kvalbbolt
 
 import (
-	bolt "github.com/etcd-io/bbolt"
+	bolt "go.etcd.io/bbolt"
 	"github.com/kval-access-language/kval-scanner"
 	"github.com/pkg/errors"
 )
